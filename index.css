@@ -1,0 +1,22 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: ;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    background: linear-gradient(135deg, #ddaaff 0%, #9e69ff 50%, #65318d 100%);
+}
+section{
+    width: 20%;
+    height: 30%;
+    border-radius: 5%;
+    border: black, solid, 1px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(60px);
+    
+}
